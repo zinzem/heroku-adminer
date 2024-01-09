@@ -1,2 +1,4 @@
-# heroku-adminer
-version = adminer-4.8.1
+# Adminer on Heroku
+```
+adminer_version: 4.8.1
+```
